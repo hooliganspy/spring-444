@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class HomeController {
 	
-	@GetMapping({"/home","/index",""})
+	@GetMapping({"/views/clientes","/index",""})
 	public String index() {
 		return "home";
 	}
