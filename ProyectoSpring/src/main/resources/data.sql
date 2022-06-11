@@ -1,3 +1,6 @@
-INSERT INTO ciudades VALUES (1,'Lambare');
-INSERT INTO ciudades VALUES (2,'Asunción');
-INSERT INTO ciudades VALUES (1,'Villa Elisa');
+INSERT INTO `ciudades` (`id`, `ciudad`) VALUES
+(1, 'Luque'),
+(2, 'Asunción'),
+(3, 'Lambaré'),
+(4, 'Ciudad del Este'),
+(5, 'Encarnación');
