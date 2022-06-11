@@ -1,3 +1,1 @@
-INSERT INTO ciudades VALUES (1, 'Asunción');
-INSERT INTO ciudades VALUES (2, 'Lambare');
-INSERT INTO ciudades VALUES (3, 'Ypane');
+INSERT INTO ciudades VALUES (1,'Lambare' , 2, 'Asuncion', 3,'Ypane' );
